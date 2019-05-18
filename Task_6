@@ -1,0 +1,5 @@
+#Calculate volume of sphere:
+#Formula of sphere is V=4 / 3 πr^3
+Radius =int(input("Provide radius of sphere = "))
+V =4/3*22/7*Radius*Radius*Radius
+print("Volume of sphere is = ", V)
