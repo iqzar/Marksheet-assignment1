@@ -1,0 +1,6 @@
+#Calculate difference between given no. 7 and another no :
+#Note difference can't be negative 
+Given_num = 17
+Another_num =int(input("Provide any number= "))
+D =Given_num-Another_num
+print("Diffrence between above no = ", abs(-D))
