@@ -1,0 +1,8 @@
+#Check is number a completely divisible by another number or not
+First_no =int(input("Please enter first no.: "))
+Second_no =int(input("Please enter second no.: "))
+if (First_no % Second_no == 0 ) :
+    print("they are completely divisible")
+else :
+    print("they are not completley divisible")    
+    
