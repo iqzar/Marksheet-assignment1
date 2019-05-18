@@ -1,0 +1,6 @@
+#Calculate days between to dates:
+from datetime import date
+First_date = date(2018,5,17)
+Second_date =date(2019,5,17)
+Days =Second_date - First_date
+print("Days" ,Days.days)
