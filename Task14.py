@@ -1,0 +1,5 @@
+#Python program to solve (x + y) * (x + y)
+x =int(input("Enter value of 'x': "))
+y =int(input("Enter value of 'y': "))
+value =(x + y )*(x + y)
+print("Then value of (x + y )*(x + y) = ",value)
